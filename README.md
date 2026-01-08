@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="center">Abdelrhman Kamal | Mobile App Developer & Flutter Developer</h2>
+<h2 align="center">Abdelrhman Kamal | Mobile App Developer</h2>
 
 * **Information Technology Student — New Assiut Technological University**
 * **Flutter Mobile Developer** (Dart-first mindset)

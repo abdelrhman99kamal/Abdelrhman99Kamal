@@ -16,9 +16,9 @@
 
 ---
 
-<h2 align="center">Abdelrhman Kamal | Flutter Developer & Software Engineer</h2>
+<h2 align="center">Abdelrhman Kamal | Mobile App Developer & Flutter Developer</h2>
 
-* **Software Engineering Student — New Assiut Technological University**
+* **Information Technology Student — New Assiut Technological University**
 * **Flutter Mobile Developer** (Dart-first mindset)
 * **Strong focus on Clean Architecture, SOLID, MVVM**
 * Experience in **AI & Computer Vision projects**
@@ -31,18 +31,12 @@
 
 <div align="left" style="display: flex; gap: .5rem; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45" width="45"/>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" width="45"/>
   <img src="https://skillicons.dev/icons?i=dart&theme=dark" height="45" width="45"/>
   <img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="45" width="45"/>
   <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="45" width="45"/>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45" width="45"/>
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="45" width="45"/>
   <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" width="45"/>
   <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" width="45"/>
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="45" width="45"/>
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45" width="45"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="45" width="45"/>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="45" width="45"/>
 </div>
 
 <br>
@@ -52,9 +46,8 @@
 
 class Developer {
   final skills = {
-    "Mobile": ["Flutter", "Dart", "Firebase", "REST APIs"],
+    "Mobile": ["Flutter", "Dart", "Firebase", "Cubit" "REST APIs"],
     "Architecture": ["Clean Architecture", "MVVM", "SOLID"],
-    "AI & Vision": ["Computer Vision", "ML Basics"],
     "Problem Solving": ["ICPC", "Competitive Programming"]
   };
 }

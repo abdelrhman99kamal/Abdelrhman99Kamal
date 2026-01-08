@@ -33,6 +33,7 @@
   <img src="https://skillicons.dev/icons?i=dart&theme=dark" height="45" width="45" alt="dart"/>
   <img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="45" width="45" alt="flutter"/>
   <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="45" width="45" alt="firebase"/>
+  <img src="https://skillicons.dev/icons?i=bloc&theme=dark" height="45" width="45" alt="firebase"/>
   <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" width="45" alt="git"/>
   <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" width="45" alt="github"/>
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45" width="45" alt="vscode"/>

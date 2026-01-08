@@ -5,7 +5,7 @@
   <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1TVThqceKoyHD7k/giphy.gif" width="400" alt="Coding Desk"/>
+  <img src="[https://media.giphy.com/media/L1R1TVThqceKoyHD7k/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdxN3c3OXIxeXU2MnZuMjh6eDBtdDFucHF2bTh1bng0OXJsbmJuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" width="400" alt="Coding Desk"/>
 </div>
 
   <br><br>

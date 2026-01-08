@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img height="450" src="https://i.redd.it/n8agw6z2smyb1.gif" alt=""/>
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" alt="mobile dev"/>
 </div>
 
 <br>
@@ -20,9 +20,8 @@
 
 * **Information Technology Student — New Assiut Technological University**
 * **Flutter Mobile Developer** (Dart-first mindset)
-* **Strong focus on Clean Architecture, SOLID, MVVM**
-* Experience in **AI & Computer Vision projects**
-* ICPC Problem Solver — ECPC 2024 participant
+* Experience **integrating AI & IoT features** in mobile apps
+* **ICPC Problem Solver** — ECPC 2024 participant
 * Building real-world apps with **Firebase, REST APIs & Flutter**
 
 ---
@@ -46,8 +45,8 @@
 
 class Developer {
   final skills = {
-    "Mobile": ["Flutter", "Dart", "Firebase", "Cubit" "REST APIs"],
-    "Architecture": ["Clean Architecture", "MVVM", "SOLID"],
+    "Mobile": ["Flutter", "Dart", "Firebase", "REST APIs"],
+    "State Management": ["Cubit"],
     "Problem Solving": ["ICPC", "Competitive Programming"]
   };
 }
